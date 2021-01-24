@@ -1,4 +1,4 @@
-# Javascript Compiler
+# Compiler
 
 Ejemplo de un compilador Javascript (no todas las opciones han sido implementadas).
 
