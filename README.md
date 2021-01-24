@@ -1,6 +1,6 @@
 # Compiler
 
-Ejemplo de un compilador Javascript (no todas las opciones han sido implementadas).
+Ejemplo de un compilador Javascript implementado en Python (no todas las opciones han sido implementadas).
 
 Se compone de tres analizadores (léxico, sintáctico y semántico), una tabla de símbolos y un gestor de errores, que son capaces de procesar el texto y devolver los siguientes ficheros de texto. 
 
